@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Env_Tracker</string>
+
+        <string name="hello">Choose from the options to check your environment</string>
+
+        <string name="ambient_label">Ambient Temperature</string>
+        <string name="light_label">Light</string>
+        <string name="pressure_label">Pressure</string>
+        <string name="humidity_label">Relative Humidity</string>
+        <string name="text_placeholder">-</string>
+
+</resources>
